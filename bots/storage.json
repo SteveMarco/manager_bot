@@ -1,0 +1,35 @@
+{
+  "users": {
+    "7886250574": [
+      {
+        "type": "video",
+        "file_id": "BAACAgUAAxkBAANjaVSZlRKCPuWEzRdEW5lql9>
+      }
+    ],
+    "6402206238": [
+      {
+        "type": "video",
+        "file_id": "BAACAgUAAxkBAANsaVUR_QNzyrK5zJAdoPPxZ8>
+      }
+    ],
+    "8443707949": [
+      {
+        "type": "video",
+        "file_id": "BAACAgUAAxkBAANzaVUTp11c3d3S_hQr1SJ7m8>
+      },
+      {
+        "type": "photo",
+        "file_id": "AgACAgUAAxkBAAN4aVgLdIAc7CbuHX-Ib6ggcL>
+      },
+      {
+        "type": "photo",
+        "file_id": "AgACAgUAAxkBAAN5aVgLdHzFCPPI9IEmDeohDC>
+      },
+      {
+        "type": "photo",
+        "file_id": "AgACAgUAAxkBAAN6aVgLdCLSrbpdLeNmP0ab-q>
+      }
+    ]
+  }
+}
+
